@@ -1,0 +1,15 @@
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/bin/Debug/net6.0/Simple Console App
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/bin/Debug/net6.0/Simple Console App.deps.json
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/bin/Debug/net6.0/Simple Console App.runtimeconfig.json
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/bin/Debug/net6.0/Simple Console App.dll
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/bin/Debug/net6.0/Simple Console App.pdb
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.csproj.AssemblyReference.cache
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.AssemblyInfoInputs.cache
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.AssemblyInfo.cs
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.csproj.CoreCompileInputs.cache
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.dll
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/refint/Simple Console App.dll
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.pdb
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/Simple Console App.genruntimeconfig.cache
+/Users/iostrovskyi/RiderProjects/net_core_source/Simple Console App/obj/Debug/net6.0/ref/Simple Console App.dll
